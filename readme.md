@@ -9,5 +9,6 @@ Install NPM packages
    npm install
    ```
 Run file
-   ```node webscraper.js
+   ```sh
+   node webscraper.js
    ```
